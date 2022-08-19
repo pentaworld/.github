@@ -19,18 +19,18 @@ For more about PENTA, see them.
 
 #### 1. PENTA MOBILE
 
-|Title|Tech|Repo|
-|-|-|-|
-|client app|React Native<br>Expo Bare Workflow<br>TypeScript|[here](https://github.com/wall-of-death/penta-mobile)|
-|smart contracts|Solidity<br>Hardhat|[here](https://github.com/wall-of-death/penta-smart-contracts)|
-|serverless|Firebase<br>CloudFunctions<br>TypeScript|[here](https://github.com/wall-of-death/penta-firebase)|
+|Title|Tech|Repo|Spec|
+|-|-|-|-|
+|client app|React Native<br>Expo Bare Workflow<br>TypeScript|[penta-mobile](https://github.com/wall-of-death/penta-mobile)|[here]()|
+|smart contracts|Solidity<br>Hardhat|[penta-smart-contracts](https://github.com/wall-of-death/penta-smart-contracts)|[here](https://www.notion.so/masatojames/Smart-Contract-Requirement-Definition-68e351c865534393ac8fb142c4345c67)|
+|serverless|Firebase<br>CloudFunctions<br>TypeScript|[penta-firebase](https://github.com/wall-of-death/penta-firebase)|[here]()|
 
 #### 2. PENTA SWAP
 
 
-|Title|Tech|Repo|
-|-|-|-|
-|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[here](https://github.com/wall-of-death/penta-swap)|
+|Title|Tech|Repo|Spec|
+|-|-|-|-|
+|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[penta-swap](https://github.com/wall-of-death/penta-swap)|[here](https://www.notion.so/masatojames/PENTA-SWAP-2a7c905b36264c6289123f02b309c670)|
 
 <br>
 
