@@ -1,12 +1,58 @@
-## Hi there 👋
+## PENTA
 
-<!--
+PENTA is a Game-like Music Player. Get a Headphone, listen to the music and bring up your Headphone.
 
-**Here are some ideas to get you started:**
+Now status is ***under developing Closed Beta***
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br>
+
+### About
+
+For more about PENTA, see them.
+
+- [Whtiepaper](https://whitepaper.penta.fan)
+- [Project Deck](https://docsend.com/view/qgwejyudffurcecd)
+
+<br>
+
+### Repository
+
+#### 1. PENTA MOBILE
+
+|Title|Tech|Repo|
+|-|-|-|
+|client app|React Native<br>Expo Bare Workflow<br>TypeScript|[here](https://github.com/wall-of-death/penta-mobile)|
+|smart contracts|Solidity<br>Hardhat|[here](https://github.com/wall-of-death/penta-smart-contracts)|
+|serverless|Firebase<br>CloudFunctions<br>TypeScript|[here](https://github.com/wall-of-death/penta-firebase)|
+
+#### 2. PENTA SWAP
+
+
+|Title|Tech|Repo|
+|-|-|-|
+|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[here](https://github.com/wall-of-death/penta-swap)|
+
+<br>
+
+### Task Management
+
+We Manage Tasks [here](https://github.com/orgs/wall-of-death/projects/2)
+
+<br>
+
+### Tools
+
+|||
+|-|-|
+|Communication|Discord|
+|Task|GitHub Projects|
+|Source|GitHub|
+|Documentation|Notion|
+|Design|Figma|
+|Infrastructure|Firebase|
+
+<br>
+
+### Recruit
+
+We're hiring! See and apply [here](https://www.notion.so/masatojames/PENTA-Recruit-Page-a89683b7caa640ab924febcb4a52bfeb)
