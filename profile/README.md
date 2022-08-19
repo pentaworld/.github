@@ -1,6 +1,6 @@
 ## PENTA
 
-PENTA is a Game-like Music Player. Get a Headphone, listen to the music and bring up your Headphone.
+PENTA is a Game-like Music Player. Get a Headphone, listen to the music to bring it up.
 
 Now status is ***under developing Closed Beta***
 
