@@ -30,7 +30,7 @@ For more about PENTA, see them.
 
 |Title|Tech|Repo|Spec|
 |-|-|-|-|
-|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[penta-swap](https://github.com/wall-of-death/penta-swap)|[here](https://github.com/wall-of-death/penta-swap/README.md)|
+|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[penta-swap](https://github.com/wall-of-death/penta-swap)|[here](https://github.com/wall-of-death/penta-swap/blob/main/README.md)|
 
 <br>
 
