@@ -34,8 +34,7 @@ For more about PENTA, see them. <br>
 
 These can help you start contributing PENTA's development.
 
-- Task Management Guideline
-- Contributing Guideline
+- [Contributing Guideline](https://github.com/wall-of-death/.github/issues/1)
 - Evaluation Process
 
 <br>
