@@ -15,7 +15,9 @@ Welcome to PENTA!!!<br>
 Here you can find all the resources on Penta's development.<br>
 Please take your time.<br>
 
-Now status is ***under developing Closed Beta***
+|now status|
+|-|
+|developing closed beta|
 
 <br>
 
