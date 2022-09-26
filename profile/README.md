@@ -1,6 +1,19 @@
-## PENTA
+```
+/************************************************
+ /$$$$$$$                       /$$
+| $$__  $$                     | $$
+| $$  \\ $$ /$$$$$$  /$$$$$$$  /$$$$$$    /$$$$$$
+| $$$$$$$//$$__  $$| $$__  $$|_  $$_/   |____  $$
+| $$____/| $$$$$$$$| $$  \\ $$  | $$      /$$$$$$$
+| $$     | $$_____/| $$  | $$  | $$ /$$ /$$__  $$
+| $$     |  $$$$$$$| $$  | $$  |  $$$$/|  $$$$$$$
+|__/      \\_______/|__/  |__/   \\___/   \\_______
+ ***********************************************/
+```
 
-PENTA is a Game-like Music Player. Get a Headphone, listen to the music to bring it up.
+Welcome to PENTA!!!<br>
+Here you can find all the resources on Penta's development.<br>
+Please take your time.<br>
 
 Now status is ***under developing Closed Beta***
 
@@ -8,10 +21,22 @@ Now status is ***under developing Closed Beta***
 
 ### About
 
-For more about PENTA, see them.
+PENTA is a "music adventure game" in which the game progresses through music playback.
+You can discover the PENTA STONE by listening to music and grow your own headphones. You can also buy and sell headphones and PENTA STONE.
+Adding game elements to a traditional music player like Spotify creates a more uplifting experience of music discovery.
 
-- [Whtiepaper](https://whitepaper.penta.fan)
-- [Project Deck](https://docsend.com/view/qgwejyudffurcecd)
+For more about PENTA, see them. <br>
+[Whtiepaper](https://whitepaper.penta.fan) | [Project Deck](https://docsend.com/view/qgwejyudffurcecd)
+
+<br>
+
+### Getting Started.
+
+These can help you start contributing PENTA's development.
+
+- Task Management Guideline
+- Contributing Guideline
+- Evaluation Process
 
 <br>
 
