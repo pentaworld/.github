@@ -36,8 +36,8 @@ For more about PENTA, see them. <br>
 
 These can help you start contributing PENTA's development.
 
-- [Contributing Guideline](https://github.com/wall-of-death/.github/issues/1)
-- [Evaluation Process](https://github.com/wall-of-death/.github/issues/2)
+- [Contributing Guideline](https://github.com/pentaworld/.github/issues/1)
+- [Evaluation Process](https://github.com/pentaworld/.github/issues/2)
 
 <br>
 
@@ -47,22 +47,22 @@ These can help you start contributing PENTA's development.
 
 |Title|Tech|Repo|Spec|
 |-|-|-|-|
-|client app|React Native<br>Expo Bare Workflow<br>TypeScript|[penta-mobile](https://github.com/wall-of-death/penta-mobile)|[here]()|
-|smart contracts|Solidity<br>Hardhat|[penta-smart-contracts](https://github.com/wall-of-death/penta-smart-contracts)|[here](https://www.notion.so/masatojames/Smart-Contract-Requirement-Definition-68e351c865534393ac8fb142c4345c67)|
-|serverless|Firebase<br>CloudFunctions<br>TypeScript|[penta-firebase](https://github.com/wall-of-death/penta-firebase)|[here]()|
+|client app|React Native<br>Expo Bare Workflow<br>TypeScript|[penta-mobile](https://github.com/pentaworld/penta-mobile)|[here]()|
+|smart contracts|Solidity<br>Hardhat|[penta-smart-contracts](https://github.com/pentaworld/penta-smart-contracts)|[here](https://www.notion.so/masatojames/Smart-Contract-Requirement-Definition-68e351c865534393ac8fb142c4345c67)|
+|serverless|Firebase<br>CloudFunctions<br>TypeScript|[penta-firebase](https://github.com/pentaworld/penta-firebase)|[here]()|
 
 #### 2. PENTA SWAP
 
 
 |Title|Tech|Repo|Spec|
 |-|-|-|-|
-|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[penta-swap](https://github.com/wall-of-death/penta-swap)|[here](https://github.com/wall-of-death/penta-swap/blob/main/README.md)|
+|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[penta-swap](https://github.com/pentaworld/penta-swap)|[here](https://github.com/pentaworld/penta-swap/blob/main/README.md)|
 
 <br>
 
 ### Task Management
 
-We Manage Tasks [here](https://github.com/orgs/wall-of-death/projects/2)
+We Manage Tasks [here](https://github.com/orgs/pentaworld/projects/2)
 
 <br>
 
