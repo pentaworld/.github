@@ -17,13 +17,13 @@ Please take your time.<br>
 
 |now status|
 |-|
-|developing closed beta|
+|running closed beta 🐶|
 
 <br>
 
-### About
+### About PENTA
 
-PENTA is a "music adventure game" in which the game progresses through music playback.
+PENTA is a "Music Adventure Game" in which the game progresses through music playback.
 You can discover the PENTA STONE by listening to music and grow your own headphones. You can also buy and sell headphones and PENTA STONE.
 Adding game elements to a traditional music player like Spotify creates a more uplifting experience of music discovery.
 
@@ -32,7 +32,7 @@ For more about PENTA, see them. <br>
 
 <br>
 
-### Getting Started.
+### Getting Started
 
 These can help you start contributing PENTA's development.
 
@@ -43,7 +43,7 @@ These can help you start contributing PENTA's development.
 
 ### Repository
 
-#### 1. PENTA MOBILE
+#### 1. PENTA
 
 |Title|Tech|Repo|Spec|
 |-|-|-|-|
