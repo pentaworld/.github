@@ -13,12 +13,13 @@ For more about PENTA, see them. <br>
 
 ## Development Guideline
 
-These can help you start contributing PENTA's development.
+These can help you start contributing to PENTA.
 
-- [Contributing Guideline](https://github.com/pentaworld/.github/issues/1)
+- [Team Structure](https://github.com/pentaworld/.github/issues/3)
+- [Task Management Process](https://github.com/pentaworld/.github/issues/4)
 - [Evaluation Process](https://github.com/pentaworld/.github/issues/2)
-- Tool List
-- Grossery List
+- [Tool List](https://github.com/pentaworld/.github/issues/5)
+- Grossery List (preparing)
 
 <br>
 
@@ -47,3 +48,11 @@ These can help you start contributing PENTA's development.
 ## Recruit
 
 We're hiring! See and apply [here](https://www.notion.so/masatojames/PENTA-Recruit-Page-a89683b7caa640ab924febcb4a52bfeb)
+
+<br>
+
+## Waiting for your contribution
+
+See [Contributing Guideline](https://github.com/pentaworld/.github/issues/1) and let's become one of us!
+
+
