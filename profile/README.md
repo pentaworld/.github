@@ -1,84 +1,49 @@
-```
-/************************************************
- /$$$$$$$                       /$$
-| $$__  $$                     | $$
-| $$  \\ $$ /$$$$$$  /$$$$$$$  /$$$$$$    /$$$$$$
-| $$$$$$$//$$__  $$| $$__  $$|_  $$_/   |____  $$
-| $$____/| $$$$$$$$| $$  \\ $$  | $$      /$$$$$$$
-| $$     | $$_____/| $$  | $$  | $$ /$$ /$$__  $$
-| $$     |  $$$$$$$| $$  | $$  |  $$$$/|  $$$$$$$
-|__/      \\_______/|__/  |__/   \\___/   \\_______
- ***********************************************/
-```
+## Welcome to PENTA
 
-Welcome to PENTA!!!<br>
-Here you can find all the resources on Penta's development.<br>
-Please take your time.<br>
+<img src="https://user-images.githubusercontent.com/38716910/194474490-7d1e1bff-9db3-4b8a-ac6f-1b3fdd4b5b46.png" width="500" />
 
-|now status|
-|-|
-|running closed beta 🐶|
-
-<br>
-
-### About PENTA
-
-PENTA is a "Music Adventure Game" in which the game progresses through music playback.
-You can discover the PENTA STONE by listening to music and grow your own headphones. You can also buy and sell headphones and PENTA STONE.
-Adding game elements to a traditional music player like Spotify creates a more uplifting experience of music discovery.
+PENTA is a "Music Adventure Game" in which the game progresses through <b>music playback</b>.<br>
+You can discover the PENTA STONE by listening to music and grow your own headphones. You can also buy and sell headphones and PENTA STONE. Adding game elements to a traditional music player like Spotify creates a more uplifting experience of music discovery.
 
 For more about PENTA, see them. <br>
-[Whtiepaper](https://whitepaper.penta.fan) | [Project Deck](https://docsend.com/view/qgwejyudffurcecd)
+- [Whtiepaper](https://whitepaper.penta.fan)
+- [Project Deck](https://speakerdeck.com/masatojames/penta-introduction-deck-english)
 
 <br>
 
-### Getting Started
+## Development Guideline
 
 These can help you start contributing PENTA's development.
 
 - [Contributing Guideline](https://github.com/pentaworld/.github/issues/1)
 - [Evaluation Process](https://github.com/pentaworld/.github/issues/2)
+- Tool List
+- Grossery List
 
 <br>
 
-### Repository
+## Projects
 
-#### 1. PENTA
+#### 1. PENTA 
 
-|Title|Tech|Repo|Spec|
-|-|-|-|-|
-|client app|React Native<br>Expo Bare Workflow<br>TypeScript|[penta-mobile](https://github.com/pentaworld/penta-mobile)|[here]()|
-|smart contracts|Solidity<br>Hardhat|[penta-smart-contracts](https://github.com/pentaworld/penta-smart-contracts)|[here](https://www.notion.so/masatojames/Smart-Contract-Requirement-Definition-68e351c865534393ac8fb142c4345c67)|
-|serverless|Firebase<br>CloudFunctions<br>TypeScript|[penta-firebase](https://github.com/pentaworld/penta-firebase)|[here]()|
+✅ running (closed beta)
+
+|Title|Tech|Repo|
+|-|-|-|
+|client app|React Native<br>Expo Bare Workflow<br>TypeScript|[penta-mobile](https://github.com/pentaworld/penta-mobile)|
+|smart contracts|Solidity<br>Hardhat|[penta-smart-contracts](https://github.com/pentaworld/penta-smart-contracts)|
+|serverless|Firebase<br>CloudFunctions<br>TypeScript|[penta-firebase](https://github.com/pentaworld/penta-firebase)|
 
 #### 2. PENTA SWAP
 
+🤖 under design
 
-|Title|Tech|Repo|Spec|
-|-|-|-|-|
-|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[penta-swap](https://github.com/pentaworld/penta-swap)|[here](https://github.com/pentaworld/penta-swap/blob/main/README.md)|
-
-<br>
-
-### Task Management
-
-We Manage Tasks [here](https://github.com/orgs/pentaworld/projects/2)
+|Title|Tech|Repo|
+|-|-|-|
+|app|Solidity<br>Hardhat<br>Uniswap V2<br>Next.js|[penta-swap](https://github.com/pentaworld/penta-swap)|
 
 <br>
 
-### Tools
-
-|||
-|-|-|
-|Communication|Discord|
-|Task|GitHub Projects|
-|Source|GitHub|
-|Documentation|Notion|
-|Design|Figma|
-|Infrastructure|Firebase|
-
-<br>
-
-### Recruit
+## Recruit
 
 We're hiring! See and apply [here](https://www.notion.so/masatojames/PENTA-Recruit-Page-a89683b7caa640ab924febcb4a52bfeb)
